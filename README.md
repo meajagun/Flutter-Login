@@ -6,6 +6,14 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+This project builds a simple login page for a Telegram-like application.
+
+### Prototype Wireframe
+![Alt text](assets/screenshots/prototype.png?raw=true "Prototype")
+
+### Flutter App Login page built from prototype
+![Alt text](assets/screenshots/login_page.png?raw=true "Login Page")
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
